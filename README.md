@@ -1,6 +1,6 @@
 ## Olá! Sou a Helika 👋
 
-Trabalho há mais de 4 anos com dados e marketing de performance. Transformo dados de vendas e mídia (Google Ads, Meta Ads, Mercado Livre, GA4) em dashboards, indicadores e análises que orientam decisões de investimento.
+Trabalho há mais de 4 anos com dados e marketing de performance. Transformando dados de vendas e mídia (Google Ads, Meta Ads, Mercado Livre, GA4) em dashboards, indicadores e análises que orientam decisões de investimento.
 
 🔹 **Dashboards e DataViz:** Power BI e Looker Studio  
 🔹 **Dados:** SQL Server, estruturação e consolidação de dados de múltiplas fontes  
